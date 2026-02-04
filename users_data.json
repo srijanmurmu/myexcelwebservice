@@ -1,0 +1,27 @@
+[
+  {
+    "ExternalID": 10901976,
+    "userName": "pocApp1testuserfour@cotellignet.onmicrosoft.com",
+    "GivenName": "POC",
+    "FamilyName": "User",
+    "MiddleName": "TEST",
+    "DisplayName": "Poc Test User",
+    "NickName": "POCS",
+    "Email": "pocApp1testuserfour@cotellignet.onmicrosoft.com",
+    "Address": "100 Universal City Plaza",
+    "Locality": "Hollywood",
+    "Region": "MI",
+    "PostalCode": 49546,
+    "Country": "USA",
+    "PhoneNumber": "555-555-5555",
+    "UserType": "Employee",
+    "Title": "Tour Guide",
+    "EmployeeNumber": 881945,
+    "CostCenter": 4130,
+    "Organization": "Universal Studios",
+    "Department": "Tour Operations",
+    "ManagerID": 89607,
+    "ManagerDisplayName": "John Smith",
+    "userType": "App1"
+  }
+]
